@@ -1,0 +1,67 @@
+
+body {
+    font-family: times;
+    font-size: 16px;
+}
+div{
+    width: 700px;
+    height: 200px;
+    text-align: center;
+}
+#first-div {
+    height: 300px;
+}
+
+h1,h2,h3 {
+    color: #4361ee;
+    margin: 5px 5px;
+}
+ul {
+    font-family: times;
+    font-size: 20px;
+    list-style: none;
+    margin-left: 0px;
+    padding: 0px 0px 0px 0px
+}
+.container {
+    margin:  auto auto;
+}
+.card-white {
+    background-color: withe;
+    border-radius: 4px;
+    box-shadow: 0px 10px 30px #adb5bd;
+    margin: 30px 0px;
+}
+.img-circle {
+    display: block;
+    margin: auto auto;
+    border-radius: 50%;
+    height: 150px;
+    box-shadow: 0px 10px 30px #adb5bd;
+}
+.btn-blue {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border-radius: 4px;
+    padding: 10px 10px;
+}
+.btn-blue:hover {
+    border: solid;
+    border-color: blue;
+    background-color: white;
+    color: black;
+}
+#avatar {
+    margin-bottom: 20px;
+}
+.list-inline li {
+    display: inline;
+}
+.list-inline i {
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    color: black;
+}
